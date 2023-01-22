@@ -1,7 +1,7 @@
 # OpenJourney-discord
 
+![build](/../../../OJD-DockerTest/actions/workflows/docker-image.yml/badge.svg)<br>
 ![image](/../../../../Ar4ikov/animated-spork/blob/main/spiral.gif)
-
 
 This is the official repository for the OpenJourney Discord bot.
 
@@ -28,14 +28,25 @@ If you want to contribute to OpenJourney, you can fork this repository and make 
 
 ### Index
 
-1. [Create a Discord Application & Bot, Invite to your server](#0-create-a-discord-application--bot-invite-to-your-server)
-2. [Clone the repository](#1-clone-the-repository)
-3. [Install NVIDIA Runtime](#2-install-nvidia-runtime)
-4. [Install Docker and docker-compose (optional)](#3-install-docker-and-docker-compose-optional)
-5. [Install Nvidia Docker](#4-install-nvidia-docker)
-6. [Setup the environment](#5-setup-the-environment)
-7. [Build the image](#6-build-the-image)
-8. [Run the container](#70-run-the-container)
+- [OpenJourney-discord](#openjourney-discord)
+  - [What is OpenJourney?](#what-is-openjourney)
+  - [How to use?](#how-to-use)
+  - [How to use the bot?](#how-to-use-the-bot)
+  - [How to contribute?](#how-to-contribute)
+  - [Installation](#installation)
+    - [Index](#index)
+    - [0. Create a Discord Application \& Bot, Invite to your server](#0-create-a-discord-application--bot-invite-to-your-server)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Install NVIDIA Runtime](#2-install-nvidia-runtime)
+    - [3. Install Docker and docker-compose (optional)](#3-install-docker-and-docker-compose-optional)
+    - [4. Install Nvidia Docker](#4-install-nvidia-docker)
+    - [5. Setup the environment](#5-setup-the-environment)
+    - [6. Build the image](#6-build-the-image)
+    - [7.0. Run the container](#70-run-the-container)
+    - [7.1. Stop the container](#71-stop-the-container)
+  - [Technical details](#technical-details)
+  - [License](#license)
+  - [Credits](#credits)
 
 
 ### 0. Create a Discord Application & Bot, Invite to your server
